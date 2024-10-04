@@ -1,6 +1,6 @@
 # Mahad Naseem's Portfolio Website 🌐
 
-Welcome to my portfolio website repository! This project showcases my skills, projects, and experience as a **Data Scientist**, **Machine Learning & AI Engineer**.
+Welcome to my portfolio website repository! This portfolio website showcases my skills, projects, and experience as a **Data Scientist**, **Machine Learning & AI Engineer**.
 
 ## 🛠️ Tech Stack
 
