@@ -13,7 +13,7 @@ Welcome to my portfolio website repository! This portfolio website showcases my 
 - **Responsive Design:** Optimized for all screen sizes, including desktops, tablets, and mobile devices.
 - **Interactive Projects Section:** Displaying some of my key projects with detailed descriptions and live demos.
 - **Smooth Animations:** Enhanced user experience with smooth CSS animations.
-- **Contact Form:** Visitors can easily reach out to me using the embedded contact form.
+- **Contact:** Visitors can easily reach out to me.
 
 ## 💻 How to View the Website
 
